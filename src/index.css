@@ -1,0 +1,14 @@
+ .box-layout{
+  border: 2px solid black;
+  padding: 10px;
+  width: 200px;
+ }
+
+ .row {
+  margin-bottom: 5px;
+ }
+ 
+ .custom-input{
+  border-width: 3px;
+  border-style: solid;
+} 
