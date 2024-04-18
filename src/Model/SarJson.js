@@ -188,7 +188,6 @@ export const sarJson = {
                   "minWidth": "256px",
                   "choices": [ "Clearing Broker Securities", "Introducing broker-securities", "SRO Securities", "CPO/CTA", "Investment Advisier", "Subsidiary of financial/bank holding company", "Future Commission Merchant", "Investement Company", "Holding Company","Retail Foreign Exchange dealer", "Introducing broker commodities","SRO Future","Other"],
                   "colCount": 3,
-              
                 },
                 {
                   "type": "multipletext",
